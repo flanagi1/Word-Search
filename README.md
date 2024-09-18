@@ -1,3 +1,6 @@
+**Summary:**
+The program allows users to input a grid and a list of words, then searches for the words in all possible directions within the grid, displaying the results with the found letters highlighted.
+
 **Includes and Setup:**
 It includes necessary libraries and a color manipulation library for terminal output.
 
